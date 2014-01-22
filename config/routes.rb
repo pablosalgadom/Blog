@@ -3,7 +3,7 @@ Blog::Application.routes.draw do
 
   resources :categories
 
-  get 'home' => 'home#index'
+  get 'home' => 'home#index', :as => :home
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
