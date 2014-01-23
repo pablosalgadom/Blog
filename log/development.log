@@ -16200,3 +16200,875 @@ Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 20
 
 
 Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 20:32:37 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 20:44:26 -0300
+Processing by HomeController#index as HTML
+  [1m[35mPost Load (46.4ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered home/index.html.erb within layouts/application (66.7ms)
+Completed 200 OK in 522ms (Views: 432.5ms | ActiveRecord: 46.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 20:44:27 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+Processing by HomeController#index as HTML
+  [1m[36mPost Load (27.9ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered home/index.html.erb within layouts/application (30.0ms)
+Completed 200 OK in 75ms (Views: 46.7ms | ActiveRecord: 27.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 20:45:02 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 20:45:23 -0300
+Processing by HomeController#index as HTML
+  [1m[35mPost Load (0.2ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 174ms (Views: 173.2ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 20:45:24 -0300
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (14.9ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  [1m[35mCategory Load (0.5ms)[0m  SELECT "categories".* FROM "categories" WHERE "categories"."id" = ? ORDER BY "categories"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered posts/index.html.erb within layouts/application (32.9ms)
+Completed 200 OK in 127ms (Views: 103.1ms | ActiveRecord: 15.4ms)
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 20:50:48 -0300
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-01-22 21:28:44 -0300
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (33.8ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  [1m[35mCategory Load (0.5ms)[0m  SELECT "categories".* FROM "categories" WHERE "categories"."id" = ? ORDER BY "categories"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered posts/index.html.erb within layouts/application (55.3ms)
+Completed 200 OK in 242ms (Views: 194.3ms | ActiveRecord: 34.2ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:45 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+Processing by HomeController#index as HTML
+  [1m[36mPost Load (0.1ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered home/index.html.erb within layouts/application (1.5ms)
+Completed 200 OK in 33ms (Views: 32.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:28:47 -0300
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-01-22 21:31:01 -0300
+Processing by PostsController#index as HTML
+  [1m[35mPost Load (18.0ms)[0m  SELECT "posts".* FROM "posts"
+  [1m[36mCategory Load (0.3ms)[0m  [1mSELECT "categories".* FROM "categories" WHERE "categories"."id" = ? ORDER BY "categories"."id" ASC LIMIT 1[0m  [["id", 2]]
+  Rendered posts/index.html.erb within layouts/application (23.3ms)
+Completed 200 OK in 97ms (Views: 77.0ms | ActiveRecord: 18.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:02 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 21:31:33 -0300
+Processing by HomeController#index as HTML
+  [1m[35mPost Load (18.1ms)[0m  SELECT "posts".* FROM "posts"
+  Rendered home/index.html.erb within layouts/application (19.3ms)
+Completed 200 OK in 93ms (Views: 73.5ms | ActiveRecord: 18.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:33 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:33 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 21:31:34 -0300
+
+
+Started GET "/posts" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+Processing by PostsController#index as HTML
+  [1m[36mPost Load (18.2ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  [1m[35mCategory Load (0.2ms)[0m  SELECT "categories".* FROM "categories" WHERE "categories"."id" = ? ORDER BY "categories"."id" ASC LIMIT 1  [["id", 2]]
+  Rendered posts/index.html.erb within layouts/application (22.2ms)
+Completed 200 OK in 88ms (Views: 67.9ms | ActiveRecord: 18.3ms)
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:06 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:07 -0300
+
+
+Started GET "/home" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+Processing by HomeController#index as HTML
+  [1m[36mPost Load (0.1ms)[0m  [1mSELECT "posts".* FROM "posts"[0m
+  Rendered home/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 122ms (Views: 67.5ms | ActiveRecord: 0.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/posts.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/jumbotron-narrow.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/home.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/categories.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap.css?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/categories.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/home.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/posts.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/affix.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/alert.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/button.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/carousel.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/collapse.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/dropdown.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/tab.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/transition.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/scrollspy.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/modal.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/tooltip.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap/popover.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
+
+
+Started GET "/assets/Naruto-Shippuden.jpg" for 127.0.0.1 at 2014-01-22 21:35:09 -0300
