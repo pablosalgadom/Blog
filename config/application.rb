@@ -2,6 +2,11 @@ require File.expand_path('../boot', __FILE__)
 
 require 'rails/all'
 
+# Se requiere para que funcione correctamente carrierwave
+require 'carrierwave'
+# require 'carrierwave/orm/activerecord'
+
+
 # Require the gems listed in Gemfile, including any gems
 # you've limited to :test, :development, or :production.
 Bundler.require(:default, Rails.env)

@@ -1,13 +1,14 @@
-<%= simple_form_for(@post) do |f| %>
+<%= simple_form_for(@post, :html => {:multipart => true}) do |f| %>
   <%= f.error_notification %>
 
   <div class="form-inputs">
     <%= f.input :title, placeholder: 'Titulo del post', hint: 'Maximo 20 caracteres' %>
     <%= f.input :content %>
     <%= f.association :category, as: :radio_buttons %>
+    <%= f.file_field :post_image %>
   </div>
 
   <div class="form-actions">
-    <%= f.button :submit %>
+    <p><%= f.button :submit %></p>
   </div>
 <% end %>

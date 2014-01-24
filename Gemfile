@@ -32,13 +32,16 @@ group :doc do
   gem 'sdoc', require: false
 end
 
-#Crea formularios de forma automatica
+# Crea formularios de forma automatica
 gem 'simple_form'
 
 gem 'bootstrap-sass', '~> 3.0.3.0'
 
-#Gema para subir imagenes
+# Permite subir archivos de imagenes o urls
 gem 'carrierwave'
+
+# Permite redimencionar imagenes y crear versiones thumbnail
+gem "mini_magick"
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'

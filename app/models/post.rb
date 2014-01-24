@@ -4,4 +4,5 @@ class Post < ActiveRecord::Base
   validates :title, 	  presence: true
   validates	:content, 	  presence: true
   validates	:category_id, presence: true
+  mount_uploader :post_image, PostImageUploader
 end
