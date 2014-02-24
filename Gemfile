@@ -32,6 +32,11 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+#---------------------------------------------------------------------------------
+#--------------------Desde aqui en adelante agrego gemas -------------------------
+#---------------------------------------------------------------------------------
+
+
 # Crea formularios de forma automatica
 gem 'simple_form'
 

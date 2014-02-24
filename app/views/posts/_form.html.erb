@@ -5,7 +5,7 @@
     <%= f.input :title, placeholder: 'Titulo del post', hint: 'Maximo 20 caracteres' %>
     <%= f.input :content %>
     <%= f.association :category, as: :radio_buttons %>
-    <%= f.file_field :post_image %>
+    <p><%= f.file_field :post_image %></p>
   </div>
 
   <div class="form-actions">
