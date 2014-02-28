@@ -48,6 +48,9 @@ gem 'carrierwave'
 # Permite redimencionar imagenes y crear versiones thumbnail
 gem "mini_magick"
 
+# Permite paginar elementos
+gem 'kaminari'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.1.2'
 

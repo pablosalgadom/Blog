@@ -1,9 +1,16 @@
 <div >
+    
+    <%= paginate @posts %>
+
     <% @posts.each do |p| %>
 
     <h2> <%= p.title %> </h2>
     <%= image_tag p.post_image.to_s, :class => 'img-rounded img-responsive post-image' %>
     <p class='post-text'> <%=  p.content %></p>
-    <p>Posteado el <%= p.created_at.strftime("%d/%m/%Y")%></p>
+    <p>Categoría: <%= p.category %></p>
+    <p>Posteado el <%= p.created_at.strftime("%d/%m/%Y")%></p> 
     <% end %>
+	
+	<%= paginate @posts %>
+
 </div>
