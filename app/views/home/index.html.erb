@@ -3,8 +3,8 @@
     <%= paginate @posts %>
 
     <% @posts.each do |p| %>
-
-    <h2> <%= p.title %> </h2>
+	
+	<h2><li><%= link_to p.title, post_url(p.id), :class => 'btn-link'%></li></h2>
     <%= image_tag p.post_image.to_s, :class => 'img-rounded img-responsive post-image' %>
     <p class='post-text'> <%=  p.content %></p>
     <p>Categoría: <%= p.category %></p>

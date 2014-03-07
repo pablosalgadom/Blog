@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Blog Prueba</title>
+  <title>Ruby Blog Prueba</title>
   <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <meta charset="utf-8"> 
   <%= csrf_meta_tags %>
 </head>
 <body>
@@ -11,10 +11,10 @@
     <div class="container">
       <div class="header">
         <ul class="nav nav-pills pull-right">
-          <li class="active"><%= link_to 'Home', home_url %></li>
+          <li class="active"><%= link_to 'Home', root_path %></li>
           <li><a href="posts">Edicion</a></li>
         </ul>
-        <h3 class="text-muted">Blog Prueba</h3>
+        <h3 class="text-warning">Ruby Blog Prueba</h3>
       </div>
 
       <%= yield %>
@@ -30,6 +30,6 @@
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
   
-
+  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
 </body>
 </html>
